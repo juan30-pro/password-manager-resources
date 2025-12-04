@@ -3,4 +3,4 @@ root = true
 [*.json]
 indent_style = space
 tab_width = 4
-insert_final_newline = false
+insert_final_newline = true
